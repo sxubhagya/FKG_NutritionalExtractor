@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+pillow
+numpy
+pandas
+python-doctr[torch]
+pytesseract
+google-generativeai
